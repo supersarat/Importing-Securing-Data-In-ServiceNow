@@ -1,0 +1,364 @@
+%PDF-1.3
+%‚„œ”
+1 0 obj
+<<
+/Type /Pages
+/Count 2
+/Kids [ 3 0 R 4 0 R ]
+>>
+endobj
+2 0 obj
+<<
+/Producer (PyPDF2)
+/NeedAppearances true
+>>
+endobj
+3 0 obj
+<<
+/Contents 6 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Parent 1 0 R
+/Resources <<
+/Font <<
+/F1 7 0 R
+/F2 8 0 R
+/F1db4938f4-efc6-46aa-9818-b0786611046a <<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+>>
+/ProcSet [ /Text /ImageI /ImageB /PDF /ImageC ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+>>
+endobj
+4 0 obj
+<<
+/Contents 9 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Parent 1 0 R
+/Resources <<
+/Font 10 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+>>
+endobj
+5 0 obj
+<<
+/Type /Catalog
+/Pages 1 0 R
+/AcroForm 2 0 R
+>>
+endobj
+6 0 obj
+<<
+/Length 4001
+>>
+stream
+q
+1 0 0 1 0 0 cm
+BT
+/F1 12 Tf
+14.4 TL
+ET
+BT
+/F1 10 Tf
+12 TL
+ET
+BT
+1 0 0 1 50 791.8898 Tm
+T*
+ET
+BT
+1 0 0 1 50 771.8898 Tm
+(Project\040Design\040Phase) Tj
+T*
+ET
+BT
+1 0 0 1 50 751.8898 Tm
+T*
+ET
+BT
+1 0 0 1 50 731.8898 Tm
+(Problem\040\226\040Solution\040Fit\040Template) Tj
+T*
+ET
+BT
+1 0 0 1 50 711.8898 Tm
+T*
+ET
+BT
+1 0 0 1 50 691.8898 Tm
+(Date\072\04015\040February\0402025) Tj
+T*
+ET
+BT
+1 0 0 1 50 671.8898 Tm
+(Team\040ID\072\040\133Add\040Team\040ID\135) Tj
+T*
+ET
+BT
+1 0 0 1 50 651.8898 Tm
+(Project\040Name\072\040Importing\040and\040Securing\040Data\040in\040ServiceNow) Tj
+T*
+ET
+BT
+1 0 0 1 50 631.8898 Tm
+(Maximum\040Marks\072\0402\040Marks) Tj
+T*
+ET
+BT
+1 0 0 1 50 611.8898 Tm
+T*
+ET
+BT
+1 0 0 1 50 591.8898 Tm
+(Problem\040\226\040Solution\040Fit\040Template\072) Tj
+T*
+ET
+BT
+1 0 0 1 50 571.8898 Tm
+T*
+ET
+BT
+1 0 0 1 50 551.8898 Tm
+(The\040Problem\055Solution\040Fit\040simply\040means\040that\040you\040have\040found\040a\040critical\040issue\040your\040users\040are) Tj
+T*
+ET
+BT
+1 0 0 1 50 536.8898 Tm
+(facing\040and\040that\040the\040solution\040you\040propose\040within\040ServiceNow\040effectively\040addresses\040it\056) Tj
+T*
+ET
+BT
+1 0 0 1 50 516.8898 Tm
+T*
+ET
+BT
+1 0 0 1 50 496.8898 Tm
+(Purpose\072) Tj
+T*
+ET
+BT
+1 0 0 1 50 476.8898 Tm
+T*
+ET
+BT
+1 0 0 1 50 456.8898 Tm
+/F2 10 Tf
+12 TL
+(q) Tj
+/F1 10 Tf
+12 TL
+(\040Solve\040the\040complexity\040of\040importing\040data\040from\040diverse\040sources\040into\040ServiceNow\040in\040a\040secure) Tj
+T*
+ET
+BT
+1 0 0 1 50 441.8898 Tm
+(and\040compliant\040manner\056) Tj
+T*
+ET
+BT
+1 0 0 1 50 421.8898 Tm
+/F2 10 Tf
+12 TL
+(q) Tj
+/F1 10 Tf
+12 TL
+(\040Accelerate\040ITSM\057ITOM\040workflows\040by\040leveraging\040IntegrationHub\054\040Transform\040Maps\054\040and\040Import) Tj
+T*
+ET
+BT
+1 0 0 1 50 406.8898 Tm
+(Sets\040securely\056) Tj
+T*
+ET
+BT
+1 0 0 1 50 386.8898 Tm
+/F2 10 Tf
+12 TL
+(q) Tj
+/F1 10 Tf
+12 TL
+(\040Improve\040stakeholder\040trust\040and\040adoption\040by\040ensuring\040data\040privacy\040through\040encryption\054) Tj
+T*
+ET
+BT
+1 0 0 1 50 371.8898 Tm
+(access\040control\054\040and\040validation\040mechanisms\056) Tj
+T*
+ET
+BT
+1 0 0 1 50 351.8898 Tm
+/F2 10 Tf
+12 TL
+(q) Tj
+/F1 10 Tf
+12 TL
+(\040Enhance\040compliance\040and\040audit\040readiness\040for\040regulations\040like\040GDPR\054\040HIPAA\054\040and\040internal) Tj
+T*
+ET
+BT
+1 0 0 1 50 336.8898 Tm
+(security\040policies\056) Tj
+T*
+ET
+BT
+1 0 0 1 50 316.8898 Tm
+/F2 10 Tf
+12 TL
+(q) Tj
+/F1 10 Tf
+12 TL
+(\040Understand\040existing\040data\040handling\040gaps\040in\040order\040to\040design\040a\040more\040secure\040and\040reliable) Tj
+T*
+ET
+BT
+1 0 0 1 50 301.8898 Tm
+(import\040process\056) Tj
+T*
+ET
+BT
+1 0 0 1 50 281.8898 Tm
+T*
+ET
+BT
+1 0 0 1 50 261.8898 Tm
+(Example\040Problem\055Solution\040Fit\072) Tj
+T*
+ET
+BT
+1 0 0 1 50 241.8898 Tm
+T*
+ET
+BT
+1 0 0 1 50 221.8898 Tm
+(Problem\072\040Administrators\040face\040challenges\040importing\040bulk\040sensitive\040data\040into\040ServiceNow) Tj
+T*
+ET
+BT
+1 0 0 1 50 206.8898 Tm
+(without\040risking\040data\040leaks\040or\040violating\040compliance\040requirements\056) Tj
+T*
+ET
+BT
+1 0 0 1 50 186.8898 Tm
+T*
+ET
+BT
+1 0 0 1 50 166.8898 Tm
+(Solution\072\040A\040secure\040import\040framework\040using\040Import\040Sets\040and\040Transform\040Maps\040combined\040with) Tj
+T*
+ET
+BT
+1 0 0 1 50 151.8898 Tm
+(ACLs\054\040MID\040Server\054\040and\040automated\040validation\040scripts\040ensures\040that\040data\040is\040imported) Tj
+T*
+ET
+BT
+1 0 0 1 50 136.8898 Tm
+(efficiently\054\040securely\054\040and\040meets\040compliance\040standards\056) Tj
+T*
+ET
+BT
+1 0 0 1 50 116.8898 Tm
+T*
+ET
+Q
+q
+0 0 612 792 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1db4938f4-efc6-46aa-9818-b0786611046a 12 Tf
+14.4 TL
+ET
+BT
+/F1db4938f4-efc6-46aa-9818-b0786611046a 11 Tf
+13.2 TL
+ET
+BT
+1 0 0 1 100 715 Tm
+(Team\040ID\072\040LTVIP2025TMID28567) Tj
+T*
+ET
+BT
+1 0 0 1 100 700 Tm
+(Project\040Name\072\040Importing\040and\040Securing\040Data\040in\040ServiceNow) Tj
+T*
+ET
+BT
+1 0 0 1 100 685 Tm
+(Team\040Members\072\040Sarat\040Chandra\040Cheekatla\054\040Devaki\040V\054\040Vallu\040Mahendra) Tj
+T*
+ET
+Q
+
+endstream
+endobj
+7 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+8 0 obj
+<<
+/BaseFont /ZapfDingbats
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+9 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Length 244
+>>
+stream
+Gas2Ab6l*?&4Q>B`@P#&de#h0=!HkNQ/i0Z3lS%38s5Y#\!0Ls:`5Y>iSJnu`5AkM9+>ju5Yhej!k\Q"OUV"&NdUNYn]6o^Z=tGBTr8eWbGk]J@=>rr/[c;JD?KeHI/Ba:/..?Oc25fR-k.=2<MR&1q*=7:M`r!TTUdsl-gJd@BCD+"UIP&MMY8>9r@Q,-P%9klXAuH\1n*j;;o=R_h*4=R6sA2f-*LI(^NJeBRf]g?"47$U"9~>
+endstream
+endobj
+10 0 obj
+<<
+/F1 7 0 R
+/F2 8 0 R
+>>
+endobj
+xref
+0 11
+0000000000 65535 f 
+0000000015 00000 n 
+0000000080 00000 n 
+0000000142 00000 n 
+0000000505 00000 n 
+0000000705 00000 n 
+0000000770 00000 n 
+0000004823 00000 n 
+0000004930 00000 n 
+0000005013 00000 n 
+0000005348 00000 n 
+trailer
+<<
+/Size 11
+/Root 5 0 R
+/Info 2 0 R
+>>
+startxref
+5390
+%%EOF
