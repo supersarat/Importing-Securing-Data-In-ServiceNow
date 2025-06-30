@@ -1,0 +1,297 @@
+%PDF-1.3
+%‚„œ”
+1 0 obj
+<<
+/Type /Pages
+/Count 1
+/Kids [ 3 0 R ]
+>>
+endobj
+2 0 obj
+<<
+/Producer (PyPDF2)
+/NeedAppearances true
+>>
+endobj
+3 0 obj
+<<
+/Contents 5 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Parent 1 0 R
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F117330fe8-29ef-4bbe-844d-efb1324d59d7 <<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+>>
+/ProcSet [ /Text /ImageI /ImageB /PDF /ImageC ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+>>
+endobj
+4 0 obj
+<<
+/Type /Catalog
+/Pages 1 0 R
+/AcroForm 2 0 R
+>>
+endobj
+5 0 obj
+<<
+/Length 3772
+>>
+stream
+q
+1 0 0 1 0 0 cm
+BT
+/F1 12 Tf
+14.4 TL
+ET
+BT
+/F1 10 Tf
+12 TL
+ET
+BT
+1 0 0 1 50 791.8898 Tm
+T*
+ET
+BT
+1 0 0 1 50 771.8898 Tm
+(Project\040Design\040Phase) Tj
+T*
+ET
+BT
+1 0 0 1 50 751.8898 Tm
+T*
+ET
+BT
+1 0 0 1 50 731.8898 Tm
+(Proposed\040Solution\040Template) Tj
+T*
+ET
+BT
+1 0 0 1 50 711.8898 Tm
+T*
+ET
+BT
+1 0 0 1 50 691.8898 Tm
+(Date\072\04015\040February\0402025) Tj
+T*
+ET
+BT
+1 0 0 1 50 671.8898 Tm
+(Team\040ID\072\040\133Enter\040Team\040ID\135) Tj
+T*
+ET
+BT
+1 0 0 1 50 651.8898 Tm
+(Project\040Name\072\040Importing\040and\040Securing\040Data\040in\040ServiceNow) Tj
+T*
+ET
+BT
+1 0 0 1 50 631.8898 Tm
+(Maximum\040Marks\072\0402\040Marks) Tj
+T*
+ET
+BT
+1 0 0 1 50 611.8898 Tm
+T*
+ET
+BT
+1 0 0 1 50 591.8898 Tm
+(Problem\040Statement\072) Tj
+T*
+ET
+BT
+1 0 0 1 50 571.8898 Tm
+(Organizations\040face\040difficulties\040securely\040importing\040large\040volumes\040of\040data\040into\040ServiceNow) Tj
+T*
+ET
+BT
+1 0 0 1 50 556.8898 Tm
+(from\040various\040sources\056) Tj
+T*
+ET
+BT
+1 0 0 1 50 536.8898 Tm
+(Challenges\040include\040maintaining\040data\040integrity\054\040applying\040appropriate\040access\040controls\054\040and) Tj
+T*
+ET
+BT
+1 0 0 1 50 521.8898 Tm
+(ensuring\040compliance\040with\040regulations\040like\040GDPR\040and\040HIPAA\056) Tj
+T*
+ET
+BT
+1 0 0 1 50 501.8898 Tm
+T*
+ET
+BT
+1 0 0 1 50 481.8898 Tm
+(Idea\040\057\040Solution\040Description\072) Tj
+T*
+ET
+BT
+1 0 0 1 50 461.8898 Tm
+(The\040solution\040leverages\040ServiceNow\047s\040Import\040Sets\054\040Transform\040Maps\054\040MID\040Server\040for\040secure) Tj
+T*
+ET
+BT
+1 0 0 1 50 446.8898 Tm
+(data\040transmission\054\040ACLs\040for\040access\040control\054) Tj
+T*
+ET
+BT
+1 0 0 1 50 426.8898 Tm
+(and\040validation\040scripts\040to\040ensure\040secure\040and\040compliant\040data\040imports\056) Tj
+T*
+ET
+BT
+1 0 0 1 50 406.8898 Tm
+T*
+ET
+BT
+1 0 0 1 50 386.8898 Tm
+(Novelty\040\057\040Uniqueness\072) Tj
+T*
+ET
+BT
+1 0 0 1 50 366.8898 Tm
+(Combines\040real\055time\040secure\040data\040import\040techniques\040with\040automated\040validation\040and\040role\055based) Tj
+T*
+ET
+BT
+1 0 0 1 50 351.8898 Tm
+(access\040control\040in\040a\040unified\040ServiceNow\040framework\056) Tj
+T*
+ET
+BT
+1 0 0 1 50 331.8898 Tm
+T*
+ET
+BT
+1 0 0 1 50 311.8898 Tm
+(Social\040Impact\040\057\040Customer\040Satisfaction\072) Tj
+T*
+ET
+BT
+1 0 0 1 50 291.8898 Tm
+(Enhances\040data\040privacy\054\040security\054\040and\040trust\040in\040IT\040systems\056\040Reduces\040compliance\040risks\040and) Tj
+T*
+ET
+BT
+1 0 0 1 50 276.8898 Tm
+(ensures\040stakeholders\047\040confidence\040in\040data\040governance\056) Tj
+T*
+ET
+BT
+1 0 0 1 50 256.8898 Tm
+T*
+ET
+BT
+1 0 0 1 50 236.8898 Tm
+(Business\040Model\040\050Revenue\040Model\051\072) Tj
+T*
+ET
+BT
+1 0 0 1 50 216.8898 Tm
+(Can\040be\040delivered\040as\040a\040managed\040IT\040service\040for\040enterprises\054\040with\040subscription\055based\040or) Tj
+T*
+ET
+BT
+1 0 0 1 50 201.8898 Tm
+(implementation\055based\040revenue\040models\056) Tj
+T*
+ET
+BT
+1 0 0 1 50 181.8898 Tm
+T*
+ET
+BT
+1 0 0 1 50 161.8898 Tm
+(Scalability\040of\040the\040Solution\072) Tj
+T*
+ET
+BT
+1 0 0 1 50 141.8898 Tm
+(Easily\040scalable\040across\040departments\040and\040organizations\040with\040multiple\040data\040sources\054) Tj
+T*
+ET
+BT
+1 0 0 1 50 126.8898 Tm
+(supporting\040growing\040volumes\040and\040regulatory\040requirements\056) Tj
+T*
+ET
+BT
+1 0 0 1 50 106.8898 Tm
+T*
+ET
+Q
+q
+0 0 612 792 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F117330fe8-29ef-4bbe-844d-efb1324d59d7 12 Tf
+14.4 TL
+ET
+BT
+/F117330fe8-29ef-4bbe-844d-efb1324d59d7 11 Tf
+13.2 TL
+ET
+BT
+1 0 0 1 100 715 Tm
+(Team\040ID\072\040LTVIP2025TMID28567) Tj
+T*
+ET
+BT
+1 0 0 1 100 700 Tm
+(Project\040Name\072\040Importing\040and\040Securing\040Data\040in\040ServiceNow) Tj
+T*
+ET
+BT
+1 0 0 1 100 685 Tm
+(Team\040Members\072\040Sarat\040Chandra\040Cheekatla\054\040Devaki\040V\054\040Vallu\040Mahendra) Tj
+T*
+ET
+Q
+
+endstream
+endobj
+6 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+xref
+0 7
+0000000000 65535 f 
+0000000015 00000 n 
+0000000074 00000 n 
+0000000136 00000 n 
+0000000489 00000 n 
+0000000554 00000 n 
+0000004378 00000 n 
+trailer
+<<
+/Size 7
+/Root 4 0 R
+/Info 2 0 R
+>>
+startxref
+4485
+%%EOF
